@@ -4,7 +4,7 @@
 
 - Passionate about **technology**, **programming** and **continous learning**, **shaping the engineering future**
 - Currently **focused on small projects** and **expanding my skillset** 🌱
-- Feel free to explore my **[GitHub repositories](https://github.com/fernandezfernandezpol)**, **connect with me**, or **reach out for collaboration opportunities**!
+- Feel free to explore my **[GitHub repositories](https://github.com/fernandezfernandezpol?tab=repositories)**, **connect with me**, or **reach out for collaboration opportunities**!
 
 ### Tech Stack
 
@@ -36,15 +36,15 @@
 ## Connect with me
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/pol-fern%C3%A1ndez-fern%C3%A1ndez-39b14b222/">
+    <a href="https://www.linkedin.com/in/pol-fern%C3%A1ndez-fern%C3%A1ndez-39b14b222/" style="outline:none; text-decoration:none;" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
     </a>
     &nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/fernandezfernandezpol">
+    <a href="https://github.com/fernandezfernandezpol" style="outline:none; text-decoration:none;" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
     </a>
     &nbsp;&nbsp;&nbsp;
-    <a href="mailto:fernandezfernandezpol@gmail.com">
+    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=fernandezfernandezpol@gmail.com" style="outline:none; text-decoration:none;" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail" />
     </a>
 </p>
